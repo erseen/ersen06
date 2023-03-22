@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Turkey</h3>
 
 <img align="center" alt="coding" width="100%" height="auto" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ersen06&label=Profile%20views&color=0e75b6&style=flat" alt="ersen06" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ersen06" alt="ersen06" /></a> </p>
 
