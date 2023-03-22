@@ -3,7 +3,6 @@
 
 <img align="center" alt="coding" width="100%" height="auto" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ibrahimoglakci&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimoglakci" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimoglakci" alt="ibrahimoglakci" /></a> </p>
 
