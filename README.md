@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ersen06" alt="ersen06" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ersen_ylmzz" target="blank"><img src="https://img.shields.io/twitter/follow/oglakcibey?logo=twitter&style=for-the-badge" alt="oglakcibey" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ersen_ylmzz" target="blank"><img src="https://img.shields.io/twitter/follow/ersen_ylmzz?logo=twitter&style=for-the-badge" alt="ersen_ylmzz" /></a> </p>
 
 - 🔭 I’m currently working on *Event Page*
 
